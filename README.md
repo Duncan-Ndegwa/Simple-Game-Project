@@ -1,1 +1,1 @@
-# Simple-Rock-Paper-and-Scissors-game
+# Simple Rock, Paper, Scissors game utilizing only python code
